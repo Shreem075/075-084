@@ -8,7 +8,7 @@ void miti(date);
 int main()
 {
     struct date d;
-    cout<<"enter month:";
+    cout<<"enter month of year:";
     cin>>d.month;
     cout<<"enter day:";
     cin>>d.day;
