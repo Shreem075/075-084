@@ -7,7 +7,7 @@ int main()
     cin>>n;
     int arr[n];
     cout<<"enter "<<n<<" elements you want to store in a array:\n";
-    for (i=0;i<n;i++)
+    for (i=01;i<n;i++)
     {
     cin>>arr[i];
     }
